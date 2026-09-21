@@ -282,14 +282,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://www.konanaturalsoap.com/cdn/shop/files/giftbox_2f543998-e0ad-41e0-9d93-f34ee39fce84_1600x.jpg?v=1738580651",
+      "imageUrl": "https://www.konanaturalsoap.com/cdn/shop/files/giftbox_2f543998-e0ad-41e0-9d93-f34ee39fce84_1600x.jpg?v=1738580651",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.konanaturalsoap.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://www.konanaturalsoap.com/"
+      "imageSourcePage": "https://www.konanaturalsoap.com/",
+      "enrichmentStatus": "image-live"
     },
     {
       "title": "Kona Roasted Coffee",
@@ -353,14 +354,15 @@
       "town": "Captain Cook",
       "area": "Captain Cook",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://bigislandbees.com/cdn/shop/files/Lehua-illustration-th_c1a7185a-5812-42b0-9c03-57897adaea6b_small.jpg?v=1709015929",
+      "imageUrl": "https://bigislandbees.com/cdn/shop/files/Lehua-illustration-th_c1a7185a-5812-42b0-9c03-57897adaea6b_small.jpg?v=1709015929",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandbees.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://bigislandbees.com/"
+      "imageSourcePage": "https://bigislandbees.com/",
+      "enrichmentStatus": "image-live"
     },
     {
       "title": "Puna Chocolate Company",
@@ -370,14 +372,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://punachocolate.com/cdn/shop/files/s_mores_500x.png?v=1691209325",
+      "imageUrl": "https://punachocolate.com/cdn/shop/files/s_mores_500x.png?v=1691209325",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://punachocolate.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://punachocolate.com/"
+      "imageSourcePage": "https://punachocolate.com/",
+      "enrichmentStatus": "image-live"
     },
     {
       "title": "Kona Jungle Jewelry",
@@ -619,14 +622,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://images.squarespace-cdn.com/content/v1/64cf3eb49b74272a44b52852/1778136930078-EQK8FQZ4LEMNN61FGU7L/BIJ%252BWebsite%252BHeaders4.jpg",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/64cf3eb49b74272a44b52852/1778136930078-EQK8FQZ4LEMNN61FGU7L/BIJ%252BWebsite%252BHeaders4.jpg",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.bigislandjewelers.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://www.bigislandjewelers.com/"
+      "imageSourcePage": "https://www.bigislandjewelers.com/",
+      "enrichmentStatus": "image-live"
     },
     {
       "title": "Filthy Farmgirl",
@@ -671,14 +675,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://mountainthunder.com/cdn/shop/files/100_Kona_Private_Reserve_American_roast_coffee_16oz.jpg?v=1761696644&width=500",
+      "imageUrl": "https://mountainthunder.com/cdn/shop/files/100_Kona_Private_Reserve_American_roast_coffee_16oz.jpg?v=1761696644&width=500",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://mountainthunder.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://mountainthunder.com/collections/frontpage"
+      "imageSourcePage": "https://mountainthunder.com/collections/frontpage",
+      "enrichmentStatus": "image-live"
     },
     {
       "title": "Hilo Coffee Mill",
@@ -688,14 +693,15 @@
       "town": "Mountain View",
       "area": "Mountain View",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://hilocoffeemill.com/cdn/shop/files/AmandaGuy-WEB-000468990010.jpg?v=1764716477&width=1920",
+      "imageUrl": "https://hilocoffeemill.com/cdn/shop/files/AmandaGuy-WEB-000468990010.jpg?v=1764716477&width=1920",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://hilocoffeemill.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://hilocoffeemill.com/"
+      "imageSourcePage": "https://hilocoffeemill.com/",
+      "enrichmentStatus": "image-live"
     },
     {
       "title": "Lavaloha Chocolate Farm",
@@ -2482,12 +2488,12 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://cdn.shopify.com/s/files/1/0131/9182/files/IMG_20180816_153858_grande.jpg?v=1534470103",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0131/9182/files/IMG_20180816_153858_grande.jpg?v=1534470103",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live",
       "website": "https://www.hawaiititaniumrings.com/",
       "imageSourcePage": "https://www.hawaiititaniumrings.com/",
       "linkStatus": "official-verified"
