@@ -175,14 +175,15 @@
       "town": "Ninole",
       "area": "Ninole",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://hogheavencoffee.com/cdn/shop/files/Hog_Heaven_Coffee_Hamakua_medium_roast_8oz_bag.jpg?v=1778281140&width=1946",
+      "imageUrl": "https://hogheavencoffee.com/cdn/shop/files/Hog_Heaven_Coffee_Hamakua_medium_roast_8oz_bag.jpg?v=1778281140&width=1946",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://hogheavencoffee.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://hogheavencoffee.com/"
+      "imageSourcePage": "https://hogheavencoffee.com/",
+      "enrichmentStatus": "image-live"
     },
     {
       "title": "Hamakua Macadamia Nut Co.",
@@ -227,14 +228,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://bigislandcoffeeroasters.com/cdn/shop/files/Bright_Sweet_Coffee_Collection_1200x.png?v=1786414719",
+      "imageUrl": "https://bigislandcoffeeroasters.com/cdn/shop/files/Bright_Sweet_Coffee_Collection_1200x.png?v=1786414719",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandcoffeeroasters.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://bigislandcoffeeroasters.com/collections/hawaiian-coffees"
+      "imageSourcePage": "https://bigislandcoffeeroasters.com/collections/hawaiian-coffees",
+      "enrichmentStatus": "image-live"
     },
     {
       "title": "Absolutely! Kona Coffee",
