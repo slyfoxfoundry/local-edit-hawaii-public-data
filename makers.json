@@ -3,8 +3,10 @@
     "section": "Makers",
     "island": "Big Island",
     "version": "v1",
-    "recordCount": 299,
-    "updated": "2026-09-20"
+    "recordCount": 298,
+    "updated": "2026-09-21",
+    "publishStatus": "v1-ready",
+    "imagePolicy": "Verified direct maker/product images where stable; verified source-page previews otherwise."
   },
   "items": [
     {
@@ -195,14 +197,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://hamakuamacnut.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://hamakuamacnut.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://hamakuamacnut.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://hamakuamacnut.com/"
+      "imageSourcePage": "https://hamakuamacnut.com/",
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Aloha Farms Hawaii",
@@ -392,14 +395,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://konajunglejewelry.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://konajunglejewelry.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://konajunglejewelry.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://konajunglejewelry.com/"
+      "imageSourcePage": "https://konajunglejewelry.com/",
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Blue Cinder Biologica",
@@ -877,15 +881,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "MD Woodworks LLC",
@@ -895,15 +899,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Tye Dye Mermaid",
@@ -913,15 +917,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Liko Lehua Farm and Greenery",
@@ -931,15 +935,15 @@
       "town": "Volcano",
       "area": "Volcano",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Lori Castillo Ceramics",
@@ -949,15 +953,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Sour Joe's Bakery",
@@ -967,15 +971,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Local Notions",
@@ -985,15 +989,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Studio Azima",
@@ -1003,15 +1007,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "My Little Store Hawai'i",
@@ -1021,15 +1025,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Wai PePe Goodies, LLC",
@@ -1039,15 +1043,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Tim Gayda Island Art",
@@ -1057,15 +1061,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Bread and Chocolate LLC",
@@ -1075,15 +1079,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Esthers Farm and Pickling LLC",
@@ -1093,15 +1097,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Pallet Palace Design",
@@ -1111,15 +1115,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Ipulicious",
@@ -1129,15 +1133,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "JMB Aloha Freeze Drying",
@@ -1147,15 +1151,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "T.N.T. Product",
@@ -1165,15 +1169,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Aunty T's Da Kine Li Dat",
@@ -1183,15 +1187,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Grateful 4 Da Bees",
@@ -1201,15 +1205,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Pickin up the Pieces",
@@ -1219,15 +1223,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://makersmarkethui.com/makersdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://makersmarkethui.com/makersdirectory.html",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://makersmarkethui.com/makersdirectory.html",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Aloha Paper and Gems",
@@ -1237,15 +1241,15 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.waimeacommunitymarket.com/blank-1",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.waimeacommunitymarket.com/blank-1",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Baron Von Wood Art",
@@ -1255,15 +1259,15 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.waimeacommunitymarket.com/blank-1",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.waimeacommunitymarket.com/blank-1",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Koa Kards",
@@ -1273,15 +1277,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Punahele Jerky Company",
@@ -1291,15 +1295,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Pakalana Mai Nei",
@@ -1309,15 +1313,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.pakalanamainei.com/merrie26",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.pakalanamainei.com/merrie26",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.pakalanamainei.com/merrie26",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.pakalanamainei.com/merrie26",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Mahiʻai Made",
@@ -1327,12 +1331,12 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://mahiaimade.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://mahiaimade.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://mahiaimade.com/",
       "imageSourcePage": "https://mahiaimade.com/",
       "linkStatus": "official-verified"
@@ -1345,12 +1349,12 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://honolii-orchards.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://honolii-orchards.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://honolii-orchards.com/",
       "imageSourcePage": "https://honolii-orchards.com/",
       "linkStatus": "official-verified"
@@ -1363,12 +1367,12 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.thunderingseas.com/gallery",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.thunderingseas.com/gallery",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.thunderingseas.com/gallery",
       "imageSourcePage": "https://www.thunderingseas.com/gallery",
       "linkStatus": "official-verified"
@@ -1381,12 +1385,12 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.highfirehawaii.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.highfirehawaii.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.highfirehawaii.com/",
       "imageSourcePage": "https://www.highfirehawaii.com/",
       "linkStatus": "official-verified"
@@ -1399,12 +1403,12 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.lavaluxebyelle.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.lavaluxebyelle.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.lavaluxebyelle.com/",
       "imageSourcePage": "https://www.lavaluxebyelle.com/",
       "linkStatus": "official-verified"
@@ -1417,14 +1421,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.sassafrashawaii.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.sassafrashawaii.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.sassafrashawaii.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://www.sassafrashawaii.com/"
+      "imageSourcePage": "https://www.sassafrashawaii.com/",
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Kona Coffee & Tea",
@@ -1434,12 +1439,12 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.konacoffeeandtea.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.konacoffeeandtea.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.konacoffeeandtea.com/",
       "imageSourcePage": "https://www.konacoffeeandtea.com/",
       "linkStatus": "official-verified"
@@ -1470,15 +1475,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandmkt.com/our-vendors",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Makau Nui",
@@ -1488,15 +1493,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandmkt.com/our-vendors",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Mea Kala",
@@ -1506,15 +1511,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandmkt.com/our-vendors",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Bonehook",
@@ -1542,15 +1547,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandmkt.com/our-vendors",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Michele M Kids Clothes",
@@ -1560,15 +1565,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandmkt.com/our-vendors",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Honu Bags",
@@ -1578,15 +1583,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandmkt.com/our-vendors",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Kona Hawaii Creations",
@@ -1596,15 +1601,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandmkt.com/our-vendors",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Momi Kona LLC",
@@ -1614,15 +1619,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandmkt.com/our-vendors",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Punakai",
@@ -1632,15 +1637,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandmkt.com/our-vendors",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Potbellies",
@@ -1650,15 +1655,15 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.waimeacommunitymarket.com/blank-1",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.waimeacommunitymarket.com/blank-1",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Pukana Lā Farms",
@@ -1668,15 +1673,15 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.waimeacommunitymarket.com/blank-1",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.waimeacommunitymarket.com/blank-1",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Queen of Cups Hawai'i",
@@ -1686,15 +1691,15 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.waimeacommunitymarket.com/blank-1",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.waimeacommunitymarket.com/blank-1",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Sea Bird Jones",
@@ -1704,15 +1709,15 @@
       "town": "South Kona",
       "area": "South Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.waimeacommunitymarket.com/blank-1",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.waimeacommunitymarket.com/blank-1",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Seastone Ceramics",
@@ -1722,15 +1727,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.waimeacommunitymarket.com/blank-1",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.waimeacommunitymarket.com/blank-1",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Sheinfeld Rodriguez",
@@ -1740,15 +1745,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.waimeacommunitymarket.com/blank-1",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.waimeacommunitymarket.com/blank-1",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "South Kona Silver",
@@ -1758,14 +1763,15 @@
       "town": "South Kona",
       "area": "South Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://southkonasilver.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://southkonasilver.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://southkonasilver.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://southkonasilver.com/"
+      "imageSourcePage": "https://southkonasilver.com/",
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Spicy Ninja Sauce",
@@ -1793,15 +1799,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.waimeacommunitymarket.com/blank-1",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.waimeacommunitymarket.com/blank-1",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Sundog Bread LLC",
@@ -1811,15 +1817,15 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.waimeacommunitymarket.com/blank-1",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.waimeacommunitymarket.com/blank-1",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.waimeacommunitymarket.com/blank-1",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "HiSami Co.",
@@ -1829,15 +1835,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandnow.com/2023/12/04/business-monday-pilikana-boutique-supports-local-artists-perpetuates-hawaiian-culture/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandnow.com/2023/12/04/business-monday-pilikana-boutique-supports-local-artists-perpetuates-hawaiian-culture/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandnow.com/2023/12/04/business-monday-pilikana-boutique-supports-local-artists-perpetuates-hawaiian-culture/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandnow.com/2023/12/04/business-monday-pilikana-boutique-supports-local-artists-perpetuates-hawaiian-culture/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Kaʻahanui Designs",
@@ -1847,12 +1853,12 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kaahanuidesigns.com/learn",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kaahanuidesigns.com/learn",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.kaahanuidesigns.com/learn",
       "imageSourcePage": "https://www.kaahanuidesigns.com/learn",
       "linkStatus": "official-or-documented-source"
@@ -1865,12 +1871,12 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.lehuajewelers.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.lehuajewelers.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.lehuajewelers.com/",
       "imageSourcePage": "https://www.lehuajewelers.com/",
       "linkStatus": "official-verified"
@@ -1883,12 +1889,12 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.maureensislandgems.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.maureensislandgems.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.maureensislandgems.com/",
       "imageSourcePage": "https://www.maureensislandgems.com/",
       "linkStatus": "official-verified"
@@ -1901,12 +1907,12 @@
       "town": "Kawaihae",
       "area": "Kawaihae",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bbb.org/us/hi/kawaihae/profile/jewelry-stores/mountain-gold-jewelers-1296-1003299",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bbb.org/us/hi/kawaihae/profile/jewelry-stores/mountain-gold-jewelers-1296-1003299",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.bbb.org/us/hi/kawaihae/profile/jewelry-stores/mountain-gold-jewelers-1296-1003299",
       "imageSourcePage": "https://www.bbb.org/us/hi/kawaihae/profile/jewelry-stores/mountain-gold-jewelers-1296-1003299",
       "linkStatus": "official-or-documented-source"
@@ -1919,12 +1925,12 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://konatownhui.corsizio.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://konatownhui.corsizio.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://konatownhui.corsizio.com/",
       "imageSourcePage": "https://konatownhui.corsizio.com/",
       "linkStatus": "official-or-representing-gallery"
@@ -1937,15 +1943,15 @@
       "town": "Hōlualoa",
       "area": "Hōlualoa",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://pacific19.com/kona/field-notes/big-island-local-artisans-markets-boutiques/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://pacific19.com/kona/field-notes/big-island-local-artisans-markets-boutiques/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://pacific19.com/kona/field-notes/big-island-local-artisans-markets-boutiques/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://pacific19.com/kona/field-notes/big-island-local-artisans-markets-boutiques/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Kamuela Hardwoods",
@@ -1955,15 +1961,15 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://pacific19.com/kona/field-notes/big-island-local-artisans-markets-boutiques/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://pacific19.com/kona/field-notes/big-island-local-artisans-markets-boutiques/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://pacific19.com/kona/field-notes/big-island-local-artisans-markets-boutiques/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://pacific19.com/kona/field-notes/big-island-local-artisans-markets-boutiques/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "2400 Fahrenheit",
@@ -1991,12 +1997,12 @@
       "town": "Volcano",
       "area": "Volcano",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://aliikanecottages.com/localdirectory.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://aliikanecottages.com/localdirectory.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://aliikanecottages.com/localdirectory.html",
       "imageSourcePage": "https://aliikanecottages.com/localdirectory.html",
       "linkStatus": "documented-source"
@@ -2025,12 +2031,12 @@
       "town": "Volcano",
       "area": "Volcano",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://ryhpottery2.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://ryhpottery2.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://ryhpottery2.com/",
       "imageSourcePage": "https://ryhpottery2.com/",
       "linkStatus": "official-verified"
@@ -2043,12 +2049,12 @@
       "town": "Volcano",
       "area": "Volcano",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.gohawaii.com/listing/volcano-gallery-artist-studio/81161",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.gohawaii.com/listing/volcano-gallery-artist-studio/81161",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.gohawaii.com/listing/volcano-gallery-artist-studio/81161",
       "imageSourcePage": "https://www.gohawaii.com/listing/volcano-gallery-artist-studio/81161",
       "linkStatus": "official-or-documented-source"
@@ -2061,12 +2067,12 @@
       "town": "Nā‘ālehu",
       "area": "Nā‘ālehu",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.paradisemeadowshawaii.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.paradisemeadowshawaii.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.paradisemeadowshawaii.com/",
       "imageSourcePage": "https://www.paradisemeadowshawaii.com/",
       "linkStatus": "official-verified"
@@ -2079,12 +2085,12 @@
       "town": "Nā‘ālehu",
       "area": "Nā‘ālehu",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.hawaiislocalbuzz.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.hawaiislocalbuzz.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.hawaiislocalbuzz.com/",
       "imageSourcePage": "https://www.hawaiislocalbuzz.com/",
       "linkStatus": "official-verified"
@@ -2115,15 +2121,15 @@
       "town": "Hāwī",
       "area": "Hāwī",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Emily Herb",
@@ -2133,15 +2139,15 @@
       "town": "North Kohala",
       "area": "North Kohala",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Jamie Gilmore",
@@ -2151,15 +2157,15 @@
       "town": "North Kohala",
       "area": "North Kohala",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Arthur Johnsen",
@@ -2169,15 +2175,15 @@
       "town": "North Kohala",
       "area": "North Kohala",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Melina Jewelry",
@@ -2187,15 +2193,15 @@
       "town": "North Kohala",
       "area": "North Kohala",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Susan Grant",
@@ -2205,15 +2211,15 @@
       "town": "Hāwī",
       "area": "Hāwī",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/wp-content/uploads/2024/08/2024-08.pdf",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/wp-content/uploads/2024/08/2024-08.pdf",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/wp-content/uploads/2024/08/2024-08.pdf",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://kohalamountainnews.com/wp-content/uploads/2024/08/2024-08.pdf",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "KoaMalu Collective",
@@ -2223,15 +2229,15 @@
       "town": "Hawaiʻi Island",
       "area": "Hawaiʻi Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.hawaiitribune-herald.com/2026/04/10/hawaii-news/its-the-final-merrie-monarch-craft-fair-featuring-work-of-beloved-ipu-heke-maker/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.hawaiitribune-herald.com/2026/04/10/hawaii-news/its-the-final-merrie-monarch-craft-fair-featuring-work-of-beloved-ipu-heke-maker/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.hawaiitribune-herald.com/2026/04/10/hawaii-news/its-the-final-merrie-monarch-craft-fair-featuring-work-of-beloved-ipu-heke-maker/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.hawaiitribune-herald.com/2026/04/10/hawaii-news/its-the-final-merrie-monarch-craft-fair-featuring-work-of-beloved-ipu-heke-maker/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Pohaku Coffee Farm",
@@ -2241,12 +2247,12 @@
       "town": "Nā‘ālehu",
       "area": "Nā‘ālehu",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.pohakucoffee.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.pohakucoffee.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.pohakucoffee.com/",
       "imageSourcePage": "https://www.pohakucoffee.com/",
       "linkStatus": "official-verified"
@@ -2259,12 +2265,12 @@
       "town": "Nā‘ālehu",
       "area": "Nā‘ālehu",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.ailaniorchards.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.ailaniorchards.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.ailaniorchards.com/",
       "imageSourcePage": "https://www.ailaniorchards.com/",
       "linkStatus": "official-verified"
@@ -2277,12 +2283,12 @@
       "town": "Nā‘ālehu",
       "area": "Nā‘ālehu",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.hawaiikoawood.net/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.hawaiikoawood.net/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.hawaiikoawood.net/",
       "imageSourcePage": "https://www.hawaiikoawood.net/",
       "linkStatus": "official-verified"
@@ -2313,12 +2319,12 @@
       "town": "Hāwī",
       "area": "Hāwī",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://lloshwinne.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://lloshwinne.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://lloshwinne.com/",
       "imageSourcePage": "https://lloshwinne.com/",
       "linkStatus": "official-verified"
@@ -2349,15 +2355,15 @@
       "town": "Hawaiʻi Island",
       "area": "Hawaiʻi Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://dbedt.hawaii.gov/blog/26-52/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://dbedt.hawaii.gov/blog/26-52/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://dbedt.hawaii.gov/blog/26-52/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://dbedt.hawaii.gov/blog/26-52/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Mahea Lea",
@@ -2367,15 +2373,15 @@
       "town": "Hawaiʻi Island",
       "area": "Hawaiʻi Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://invest.hawaii.gov/wp-content/uploads/2026/03/CBED-Advisory-Council-Meeting-Materials_03.17.2026.pdf",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://invest.hawaii.gov/wp-content/uploads/2026/03/CBED-Advisory-Council-Meeting-Materials_03.17.2026.pdf",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://invest.hawaii.gov/wp-content/uploads/2026/03/CBED-Advisory-Council-Meeting-Materials_03.17.2026.pdf",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://invest.hawaii.gov/wp-content/uploads/2026/03/CBED-Advisory-Council-Meeting-Materials_03.17.2026.pdf",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Creative Arts Hawai‘i",
@@ -2403,12 +2409,12 @@
       "town": "Hāwī",
       "area": "Hāwī",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bbb.org/us/hi/kapaau/profile/jewelry-stores/kathleens-creations-1296-53058255",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bbb.org/us/hi/kapaau/profile/jewelry-stores/kathleens-creations-1296-53058255",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.bbb.org/us/hi/kapaau/profile/jewelry-stores/kathleens-creations-1296-53058255",
       "imageSourcePage": "https://www.bbb.org/us/hi/kapaau/profile/jewelry-stores/kathleens-creations-1296-53058255",
       "linkStatus": "official-or-documented-source"
@@ -2421,12 +2427,12 @@
       "town": "Nā‘ālehu",
       "area": "Nā‘ālehu",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.localharvest.org/crooked-c-ranch-M74281",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.localharvest.org/crooked-c-ranch-M74281",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.localharvest.org/crooked-c-ranch-M74281",
       "imageSourcePage": "https://www.localharvest.org/crooked-c-ranch-M74281",
       "linkStatus": "official-or-documented-source"
@@ -2439,12 +2445,12 @@
       "town": "Nā‘ālehu",
       "area": "Nā‘ālehu",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kaunewsbriefs.blogspot.com/2021/04/kau-news-briefs-sunday-april-4-2021.html",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kaunewsbriefs.blogspot.com/2021/04/kau-news-briefs-sunday-april-4-2021.html",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://kaunewsbriefs.blogspot.com/2021/04/kau-news-briefs-sunday-april-4-2021.html",
       "imageSourcePage": "https://kaunewsbriefs.blogspot.com/2021/04/kau-news-briefs-sunday-april-4-2021.html",
       "linkStatus": "documented-source"
@@ -2457,12 +2463,12 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://pokelastudio.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://pokelastudio.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://pokelastudio.com/",
       "imageSourcePage": "https://pokelastudio.com/",
       "linkStatus": "official-verified"
@@ -2475,12 +2481,12 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://quillandfeather.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://quillandfeather.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://quillandfeather.com/",
       "imageSourcePage": "https://quillandfeather.com/",
       "linkStatus": "official-verified"
@@ -2529,12 +2535,12 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://lewiskoa.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://lewiskoa.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://lewiskoa.com/",
       "imageSourcePage": "https://lewiskoa.com/",
       "linkStatus": "official-verified"
@@ -2547,12 +2553,12 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.jelenaclayhawaii.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.jelenaclayhawaii.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.jelenaclayhawaii.com/",
       "imageSourcePage": "https://www.jelenaclayhawaii.com/",
       "linkStatus": "official-verified"
@@ -2565,15 +2571,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Kathleen Carr",
@@ -2583,15 +2589,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Christal Nylin",
@@ -2601,15 +2607,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Tom Carey",
@@ -2619,15 +2625,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Shannon Nakaya",
@@ -2637,15 +2643,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Debbie Slay",
@@ -2655,15 +2661,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Victoria Penfield",
@@ -2673,15 +2679,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Ginger Anne Sandell",
@@ -2691,15 +2697,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Pola Kate",
@@ -2709,15 +2715,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Tesia Gallinari",
@@ -2727,15 +2733,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Maria Singleton",
@@ -2745,15 +2751,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Brad Lewis",
@@ -2763,15 +2769,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Gigi Goochey",
@@ -2781,15 +2787,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Rachel Baker",
@@ -2817,15 +2823,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Scott Pincus",
@@ -2835,15 +2841,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Joseph Ster",
@@ -2853,15 +2859,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Eric Munoz",
@@ -2871,15 +2877,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kailuavillageartists.com/about-us",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Cathie Ann Amelotte",
@@ -2889,15 +2895,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://blueseaartisans.com/artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Malia Barreras-Float",
@@ -2907,15 +2913,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://blueseaartisans.com/artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Denise Bird",
@@ -2925,15 +2931,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://blueseaartisans.com/artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Michael P. Carion",
@@ -2943,15 +2949,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://blueseaartisans.com/artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Stan Chraminski",
@@ -2961,15 +2967,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://blueseaartisans.com/artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Marianne Fellner",
@@ -2979,15 +2985,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://blueseaartisans.com/artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Chad Gray",
@@ -2997,15 +3003,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://blueseaartisans.com/artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Corky Kono",
@@ -3015,15 +3021,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://blueseaartisans.com/artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Sue Mailander",
@@ -3033,15 +3039,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://blueseaartisans.com/artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Mark Martel",
@@ -3051,15 +3057,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://blueseaartisans.com/artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Sabrina Ross",
@@ -3069,15 +3075,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://blueseaartisans.com/artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Johanna Schumacher",
@@ -3087,15 +3093,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://blueseaartisans.com/artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Stacey Siegel",
@@ -3105,15 +3111,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://blueseaartisans.com/artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Lorie Taylor",
@@ -3123,15 +3129,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://blueseaartisans.com/artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://blueseaartisans.com/artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Helen White",
@@ -3141,15 +3147,15 @@
       "town": "North Kohala",
       "area": "North Kohala",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Emily Beeson",
@@ -3159,15 +3165,15 @@
       "town": "North Kohala",
       "area": "North Kohala",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Donna Maltz",
@@ -3177,15 +3183,15 @@
       "town": "North Kohala",
       "area": "North Kohala",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Melisa Hicks",
@@ -3195,15 +3201,15 @@
       "town": "North Kohala",
       "area": "North Kohala",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Mark Somers",
@@ -3213,15 +3219,15 @@
       "town": "North Kohala",
       "area": "North Kohala",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "ShivaRam Wolfgang Thom",
@@ -3231,15 +3237,15 @@
       "town": "Kapaʻau",
       "area": "Kapaʻau",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/2021/october-2021/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/2021/october-2021/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/2021/october-2021/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://kohalamountainnews.com/2021/october-2021/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Catherine Morgan",
@@ -3249,15 +3255,15 @@
       "town": "Kapaʻau",
       "area": "Kapaʻau",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/2022/march-2022/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/2022/march-2022/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/2022/march-2022/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://kohalamountainnews.com/2022/march-2022/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Bill Parks",
@@ -3267,15 +3273,15 @@
       "town": "North Kohala",
       "area": "North Kohala",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/blog/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/blog/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/blog/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://kohalamountainnews.com/blog/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Malia Welch",
@@ -3285,15 +3291,15 @@
       "town": "North Kohala",
       "area": "North Kohala",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/blog/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/blog/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/blog/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://kohalamountainnews.com/blog/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Mary Sky Schoolcraft",
@@ -3303,15 +3309,15 @@
       "town": "North Kohala",
       "area": "North Kohala",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/blog/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kohalamountainnews.com/blog/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/blog/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://kohalamountainnews.com/blog/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Jeff Gomes",
@@ -3321,12 +3327,12 @@
       "town": "Keaʻau",
       "area": "Keaʻau",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://jeffgomes.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://jeffgomes.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://jeffgomes.com/",
       "imageSourcePage": "https://jeffgomes.com/",
       "linkStatus": "official-verified"
@@ -3339,12 +3345,12 @@
       "town": "Honomū",
       "area": "Honomū",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://keolamagazine.com/island-treasures/michael-arthur-jayme-gallery-studio/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://keolamagazine.com/island-treasures/michael-arthur-jayme-gallery-studio/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://keolamagazine.com/island-treasures/michael-arthur-jayme-gallery-studio/",
       "imageSourcePage": "https://keolamagazine.com/island-treasures/michael-arthur-jayme-gallery-studio/",
       "linkStatus": "official-or-documented-source"
@@ -3357,15 +3363,15 @@
       "town": "Volcano",
       "area": "Volcano",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Dennis Schmit",
@@ -3375,15 +3381,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Hunter Wilburn",
@@ -3393,15 +3399,15 @@
       "town": "Volcano",
       "area": "Volcano",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Samson Tanoa Low",
@@ -3429,15 +3435,15 @@
       "town": "Honokaʻa",
       "area": "Honokaʻa",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Victoria McCormick",
@@ -3447,15 +3453,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Mika McCann",
@@ -3465,15 +3471,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Claudia McCall",
@@ -3483,15 +3489,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Kathy Long",
@@ -3501,15 +3507,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Kira Kamamalu Lee",
@@ -3519,15 +3525,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Greg Eaves",
@@ -3537,14 +3543,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kalaikoawoods.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.kalaikoawoods.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kalaikoawoods.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://www.kalaikoawoods.com/"
+      "imageSourcePage": "https://www.kalaikoawoods.com/",
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Lanaya Deily",
@@ -3554,15 +3561,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Douglas Davenport",
@@ -3572,15 +3579,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Patti Datlof",
@@ -3590,15 +3597,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Brenda May Ching",
@@ -3608,15 +3615,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Cindy Conklin",
@@ -3626,15 +3633,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Erin Datlof",
@@ -3644,15 +3651,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Karen Thrasher",
@@ -3662,15 +3669,15 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://firehouseartgallery.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://firehouseartgallery.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://firehouseartgallery.org/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://firehouseartgallery.org/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Doug Perrine",
@@ -3680,15 +3687,15 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://firehouseartgallery.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://firehouseartgallery.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://firehouseartgallery.org/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://firehouseartgallery.org/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Merrie Jo Snow",
@@ -3698,15 +3705,15 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://firehouseartgallery.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://firehouseartgallery.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://firehouseartgallery.org/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://firehouseartgallery.org/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Norma Watt",
@@ -3716,15 +3723,15 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://firehouseartgallery.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://firehouseartgallery.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://firehouseartgallery.org/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://firehouseartgallery.org/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Brenda Meriwether",
@@ -3734,15 +3741,15 @@
       "town": "Waimea",
       "area": "Waimea",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://firehouseartgallery.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://firehouseartgallery.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://firehouseartgallery.org/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://firehouseartgallery.org/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Aspen Dewey",
@@ -3752,15 +3759,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/about-one-gallery",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/about-one-gallery",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/about-one-gallery",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/about-one-gallery",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Wade Morales",
@@ -3824,15 +3831,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Scott Doying",
@@ -3842,15 +3849,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Jan Perry Clark",
@@ -3860,15 +3867,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Nikolas Rocha",
@@ -3878,15 +3885,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Kate Asis",
@@ -3896,15 +3903,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Pattie Pease Johnson",
@@ -3914,15 +3921,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Sara Naby",
@@ -3932,15 +3939,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Ta'apai Mataoa",
@@ -3950,15 +3957,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Don Elwing",
@@ -3968,15 +3975,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Gaige Qualmann",
@@ -3986,15 +3993,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/collections/all",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/collections/all",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/collections/all",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://onegalleryhawaiihilo.com/collections/all",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Joseph Mathieu",
@@ -4004,15 +4011,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/collections/all",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://onegalleryhawaiihilo.com/collections/all",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/collections/all",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://onegalleryhawaiihilo.com/collections/all",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Hawaiian Mako Design / Dive or Die Hawaii",
@@ -4022,12 +4029,12 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://hawaiianmako.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://hawaiianmako.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://hawaiianmako.com/",
       "imageSourcePage": "https://hawaiianmako.com/",
       "linkStatus": "official-or-documented-source"
@@ -4040,12 +4047,12 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.extremeexposure.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.extremeexposure.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.extremeexposure.com/",
       "imageSourcePage": "https://www.extremeexposure.com/",
       "linkStatus": "official-verified"
@@ -4058,15 +4065,15 @@
       "town": "East Hawaiʻi",
       "area": "East Hawaiʻi",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Ron Hanatani",
@@ -4076,15 +4083,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Jill Briggs",
@@ -4094,15 +4101,15 @@
       "town": "Volcano",
       "area": "Volcano",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Stephanie & Apo Aquino",
@@ -4112,15 +4119,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Christine Ahia",
@@ -4130,15 +4137,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Tommy Adkins",
@@ -4148,15 +4155,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Caren Loebel-Fried",
@@ -4166,15 +4173,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Avi Kiriaty",
@@ -4184,15 +4191,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Edwin Kayton",
@@ -4202,15 +4209,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "David K. Hayes",
@@ -4220,15 +4227,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Bonnie Sol Hahn",
@@ -4238,15 +4245,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Rod Cameron",
@@ -4256,15 +4263,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Marian Berger",
@@ -4274,15 +4281,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Margaret Barnaby",
@@ -4292,15 +4299,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Diane Renchler",
@@ -4310,15 +4317,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Kurt Kishimori",
@@ -4328,15 +4335,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Bob Danhieux Douglas",
@@ -4346,15 +4353,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Joshua Jahelka",
@@ -4364,15 +4371,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Robin Scanlon",
@@ -4382,15 +4389,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Roslyn Moresh",
@@ -4400,15 +4407,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Heather Mettler",
@@ -4418,15 +4425,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Domino Cohn",
@@ -4436,15 +4443,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Stephen Freedman",
@@ -4454,15 +4461,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Frank McClure",
@@ -4472,15 +4479,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artists/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artists/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Scott Gorrell",
@@ -4490,15 +4497,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artist_categories/2d-paint-print/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Anne Guth",
@@ -4508,15 +4515,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artist_categories/2d-paint-print/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "David Maes Gallegos",
@@ -4526,15 +4533,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artist_categories/2d-paint-print/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Eve Furchgott",
@@ -4544,15 +4551,15 @@
       "town": "East Hawaiʻi",
       "area": "East Hawaiʻi",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artist_categories/2d-paint-print/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Donna Carnegie",
@@ -4562,15 +4569,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/artist_categories/2d-paint-print/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Esther Szegedy",
@@ -4580,15 +4587,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Daniel Moe",
@@ -4598,15 +4605,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Paul McCarty",
@@ -4616,15 +4623,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Diana Miller",
@@ -4634,15 +4641,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://volcanoartcenter.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://volcanoartcenter.org/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Naupaka Island Designs",
@@ -4652,12 +4659,12 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://naupakaislanddesigns.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://naupakaislanddesigns.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://naupakaislanddesigns.com/",
       "imageSourcePage": "https://naupakaislanddesigns.com/",
       "linkStatus": "official-verified"
@@ -4670,15 +4677,15 @@
       "town": "Honokaʻa",
       "area": "Honokaʻa",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.ehcc.org/content/call-big-island-artists",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.ehcc.org/content/call-big-island-artists",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.ehcc.org/content/call-big-island-artists",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.ehcc.org/content/call-big-island-artists",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Hiroki Morinoue",
@@ -4688,15 +4695,15 @@
       "town": "Hōlualoa",
       "area": "Hōlualoa",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.studiosevenfinearts.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.studiosevenfinearts.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.studiosevenfinearts.com/",
       "linkStatus": "official-or-representing-gallery",
       "imageSourcePage": "https://www.studiosevenfinearts.com/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Setsuko Watanabe-Morinoue",
@@ -4706,15 +4713,15 @@
       "town": "Hōlualoa",
       "area": "Hōlualoa",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.studiosevenfinearts.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.studiosevenfinearts.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.studiosevenfinearts.com/",
       "linkStatus": "official-or-representing-gallery",
       "imageSourcePage": "https://www.studiosevenfinearts.com/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Miho Morinoue",
@@ -4724,15 +4731,15 @@
       "town": "Hōlualoa",
       "area": "Hōlualoa",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.studiosevenfinearts.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.studiosevenfinearts.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.studiosevenfinearts.com/",
       "linkStatus": "official-or-representing-gallery",
       "imageSourcePage": "https://www.studiosevenfinearts.com/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Barbara Hanson",
@@ -4742,12 +4749,12 @@
       "town": "Hōlualoa",
       "area": "Hōlualoa",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.donkeymillartcenter.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.donkeymillartcenter.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.donkeymillartcenter.org/",
       "imageSourcePage": "https://www.donkeymillartcenter.org/",
       "linkStatus": "official-or-representing-gallery"
@@ -4760,12 +4767,12 @@
       "town": "Hōlualoa",
       "area": "Hōlualoa",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.donslocum.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.donslocum.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "image-source-identified",
+      "enrichmentStatus": "image-live-page-preview",
       "website": "https://www.donslocum.com/",
       "imageSourcePage": "https://www.donslocum.com/",
       "linkStatus": "official-or-documented-source"
@@ -4778,15 +4785,15 @@
       "town": "West Hawaiʻi",
       "area": "West Hawaiʻi",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/",
       "linkStatus": "official-or-representing-gallery",
       "imageSourcePage": "https://donkeymillartcenter.org/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Claire Seastone",
@@ -4796,15 +4803,15 @@
       "town": "West Hawaiʻi",
       "area": "West Hawaiʻi",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/",
       "linkStatus": "official-or-representing-gallery",
       "imageSourcePage": "https://donkeymillartcenter.org/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Will & Kate Jacobson",
@@ -4814,15 +4821,15 @@
       "town": "West Hawaiʻi",
       "area": "West Hawaiʻi",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/",
       "linkStatus": "official-or-representing-gallery",
       "imageSourcePage": "https://donkeymillartcenter.org/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Peter Durst",
@@ -4832,15 +4839,15 @@
       "town": "West Hawaiʻi",
       "area": "West Hawaiʻi",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/",
       "linkStatus": "official-or-representing-gallery",
       "imageSourcePage": "https://donkeymillartcenter.org/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Susan Raber Bray",
@@ -4850,15 +4857,15 @@
       "town": "West Hawaiʻi",
       "area": "West Hawaiʻi",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Jill Backus",
@@ -4868,15 +4875,15 @@
       "town": "West Hawaiʻi",
       "area": "West Hawaiʻi",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Gerald Ben",
@@ -4886,15 +4893,15 @@
       "town": "Hōlualoa",
       "area": "Hōlualoa",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/",
       "linkStatus": "official-or-representing-gallery",
       "imageSourcePage": "https://donkeymillartcenter.org/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Vera Omestad",
@@ -4904,15 +4911,15 @@
       "town": "West Hawaiʻi",
       "area": "West Hawaiʻi",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Sandy Sater",
@@ -4922,15 +4929,15 @@
       "town": "West Hawaiʻi",
       "area": "West Hawaiʻi",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Amber Aguirre",
@@ -4958,15 +4965,15 @@
       "town": "West Hawaiʻi",
       "area": "West Hawaiʻi",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Erin Skelton",
@@ -4976,15 +4983,15 @@
       "town": "West Hawaiʻi",
       "area": "West Hawaiʻi",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Allison Tan",
@@ -4994,15 +5001,15 @@
       "town": "West Hawaiʻi",
       "area": "West Hawaiʻi",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Jake Boggs",
@@ -5012,15 +5019,15 @@
       "town": "West Hawaiʻi",
       "area": "West Hawaiʻi",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Buddhas Cup Coffee",
@@ -5048,15 +5055,15 @@
       "town": "Puna",
       "area": "Puna",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://divinehawaiiancoffee.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://divinehawaiiancoffee.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://divinehawaiiancoffee.com/",
       "linkStatus": "official-or-documented-source",
       "imageSourcePage": "https://divinehawaiiancoffee.com/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Gary Palm Watercolors",
@@ -5066,15 +5073,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Hana San Enterprise",
@@ -5084,15 +5091,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Hawaii Balsamics",
@@ -5102,15 +5109,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Hawaiian War Clubs by Manny Mattos",
@@ -5120,15 +5127,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Kalapana - Fresh Hawaiian Honey",
@@ -5138,15 +5145,15 @@
       "town": "Kalapana",
       "area": "Kalapana",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Kanahele Jewelry",
@@ -5156,15 +5163,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kanahelejewelry.com/home",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://kanahelejewelry.com/home",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://kanahelejewelry.com/home",
       "imageSourcePage": "https://kanahelejewelry.com/home",
       "linkStatus": "official-verified",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Big Island Stained Glass",
@@ -5174,15 +5181,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandstainedglass.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandstainedglass.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.bigislandstainedglass.com/",
       "imageSourcePage": "https://www.bigislandstainedglass.com/",
       "linkStatus": "official-or-representing-gallery",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Suzanne Wang Ceramics",
@@ -5192,15 +5199,15 @@
       "town": "Hakalau",
       "area": "Hakalau",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.suzannewangceramics.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.suzannewangceramics.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.suzannewangceramics.com/",
       "imageSourcePage": "https://www.suzannewangceramics.com/",
       "linkStatus": "official-or-representing-gallery",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Luti Castro Fine Art",
@@ -5210,15 +5217,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandmkt.com/our-vendors",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Rare Hawaiian Honey Company",
@@ -5228,15 +5235,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.rarehawaiianhoney.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.rarehawaiianhoney.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.rarehawaiianhoney.com/",
       "imageSourcePage": "https://www.rarehawaiianhoney.com/",
       "linkStatus": "official-verified",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Bee Boys",
@@ -5246,15 +5253,15 @@
       "town": "Kailua-Kona",
       "area": "Kailua-Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://beeboys.org/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://beeboys.org/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://beeboys.org/",
       "imageSourcePage": "https://beeboys.org/",
       "linkStatus": "official-verified",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Tynanes Bee Farms",
@@ -5264,15 +5271,15 @@
       "town": "Keaʻau",
       "area": "Keaʻau",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://honeysupplierkeaau.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://honeysupplierkeaau.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://honeysupplierkeaau.com/",
       "imageSourcePage": "https://honeysupplierkeaau.com/",
       "linkStatus": "official-or-representing-gallery",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Pualani Bee Farm",
@@ -5300,15 +5307,15 @@
       "town": "Hilo",
       "area": "Hilo",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://paradiseroasters.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://paradiseroasters.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://paradiseroasters.com/",
       "imageSourcePage": "https://paradiseroasters.com/",
       "linkStatus": "official-verified",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Hamakua Coffee Roasters",
@@ -5318,15 +5325,15 @@
       "town": "Honokaʻa",
       "area": "Honokaʻa",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://hamakuacoffeeroasters.com/",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://hamakuacoffeeroasters.com/",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://hamakuacoffeeroasters.com/",
       "imageSourcePage": "https://hamakuacoffeeroasters.com/",
       "linkStatus": "official-verified",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Pumehana Plantation",
@@ -5336,15 +5343,15 @@
       "town": "Captain Cook",
       "area": "Captain Cook",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandmkt.com/our-vendors",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Bill's Coffee & Chocolate",
@@ -5354,15 +5361,15 @@
       "town": "Kona",
       "area": "Kona",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandmkt.com/our-vendors",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     },
     {
       "title": "Ka'u Cold Brew",
@@ -5372,15 +5379,15 @@
       "town": "Kaʻū",
       "area": "Kaʻū",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
+      "imageUrl": "https://image.thum.io/get/width/900/crop/900/noanimate/https://bigislandmkt.com/our-vendors",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
       "linkStatus": "source-fallback",
       "imageSourcePage": "https://bigislandmkt.com/our-vendors",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live-page-preview"
     }
   ]
 }
