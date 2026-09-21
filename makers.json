@@ -2253,7 +2253,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.hawaiikoawood.net/",
+      "imageSourcePage": "https://www.hawaiikoawood.net/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Kristi Kranz / Kranzsilks",
@@ -2286,7 +2289,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://lloshwinne.com/",
+      "imageSourcePage": "https://lloshwinne.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Hilo Bay Pottery",
@@ -2508,7 +2514,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.jelenaclayhawaii.com/",
+      "imageSourcePage": "https://www.jelenaclayhawaii.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Stefanie Culbertson",
@@ -3725,7 +3734,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.wademoralesphotography.com/",
+      "imageSourcePage": "https://www.wademoralesphotography.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Michael Mortara",
@@ -4595,7 +4607,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://naupakaislanddesigns.com/",
+      "imageSourcePage": "https://naupakaislanddesigns.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Hugh Jenkins & Stephanie Ross",
@@ -5204,7 +5219,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "website": "https://www.pualanibeefarm.com/",
+      "imageSourcePage": "https://www.pualanibeefarm.com/",
+      "linkStatus": "official-verified",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Paradise Coffee Roasters",
@@ -5218,7 +5237,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "website": "https://paradiseroasters.com/",
+      "imageSourcePage": "https://paradiseroasters.com/",
+      "linkStatus": "official-verified",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Hamakua Coffee Roasters",
