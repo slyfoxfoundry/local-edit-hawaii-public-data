@@ -3510,7 +3510,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Brenda May Ching",
@@ -3526,7 +3528,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Cindy Conklin",
@@ -3542,7 +3546,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Erin Datlof",
@@ -3558,7 +3564,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Karen Thrasher",
@@ -3574,7 +3582,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://firehouseartgallery.org/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://firehouseartgallery.org/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Doug Perrine",
@@ -3590,7 +3600,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://firehouseartgallery.org/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://firehouseartgallery.org/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Merrie Jo Snow",
@@ -3606,7 +3618,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://firehouseartgallery.org/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://firehouseartgallery.org/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Norma Watt",
@@ -3622,7 +3636,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://firehouseartgallery.org/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://firehouseartgallery.org/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Brenda Meriwether",
@@ -3638,7 +3654,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://firehouseartgallery.org/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://firehouseartgallery.org/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Aspen Dewey",
@@ -3654,7 +3672,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/about-one-gallery",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/about-one-gallery",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Wade Morales",
@@ -3668,7 +3688,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Michael Mortara",
@@ -3682,7 +3703,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Misato Mortara",
@@ -3696,7 +3718,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "The Art of Adare",
@@ -3712,7 +3735,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Scott Doying",
@@ -3728,7 +3753,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Jan Perry Clark",
@@ -3744,7 +3771,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Nikolas Rocha",
@@ -3760,7 +3789,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Kate Asis",
@@ -3776,7 +3807,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Pattie Pease Johnson",
@@ -3792,7 +3825,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Sara Naby",
@@ -3808,7 +3843,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Ta'apai Mataoa",
@@ -3824,7 +3861,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Don Elwing",
@@ -3840,7 +3879,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Gaige Qualmann",
@@ -3856,7 +3897,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/collections/all",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://onegalleryhawaiihilo.com/collections/all",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Joseph Mathieu",
@@ -3872,7 +3915,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://onegalleryhawaiihilo.com/collections/all",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://onegalleryhawaiihilo.com/collections/all",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Hawaiian Mako Design / Dive or Die Hawaii",
@@ -3886,7 +3931,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Bruce Omori",
@@ -3900,7 +3946,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Ralph San Miguel",
@@ -3916,7 +3963,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Ron Hanatani",
@@ -3932,7 +3981,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Jill Briggs",
@@ -3948,7 +3999,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Stephanie & Apo Aquino",
@@ -3964,7 +4017,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Christine Ahia",
@@ -3980,7 +4035,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Tommy Adkins",
@@ -3996,7 +4053,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Caren Loebel-Fried",
@@ -4012,7 +4071,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Avi Kiriaty",
@@ -4028,7 +4089,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Edwin Kayton",
@@ -4044,7 +4107,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "David K. Hayes",
@@ -4060,7 +4125,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Bonnie Sol Hahn",
@@ -4076,7 +4143,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Rod Cameron",
@@ -4092,7 +4161,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Marian Berger",
@@ -4108,7 +4179,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Margaret Barnaby",
@@ -4124,7 +4197,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Diane Renchler",
@@ -4140,7 +4215,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Kurt Kishimori",
@@ -4156,7 +4233,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Bob Danhieux Douglas",
@@ -4172,7 +4251,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Joshua Jahelka",
@@ -4188,7 +4269,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Robin Scanlon",
@@ -4204,7 +4287,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Roslyn Moresh",
@@ -4220,7 +4305,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Heather Mettler",
@@ -4236,7 +4323,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Domino Cohn",
@@ -4252,7 +4341,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Stephen Freedman",
@@ -4268,7 +4359,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Frank McClure",
@@ -4284,7 +4377,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Scott Gorrell",
@@ -4300,7 +4395,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Anne Guth",
@@ -4316,7 +4413,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "David Maes Gallegos",
@@ -4332,7 +4431,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Eve Furchgott",
@@ -4348,7 +4449,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Donna Carnegie",
@@ -4364,7 +4467,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Esther Szegedy",
@@ -4380,7 +4485,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Daniel Moe",
@@ -4396,7 +4503,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Paul McCarty",
@@ -4412,7 +4521,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Diana Miller",
@@ -4428,7 +4539,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Naupaka Island Designs",
@@ -4442,7 +4555,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Hugh Jenkins & Stephanie Ross",
@@ -4458,7 +4572,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.ehcc.org/content/call-big-island-artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.ehcc.org/content/call-big-island-artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Hiroki Morinoue",
@@ -4473,8 +4589,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://www.studiosevenfinearts.com/about",
-      "linkStatus": "source-fallback"
+      "website": "https://www.studiosevenfinearts.com/",
+      "linkStatus": "official-or-representing-gallery",
+      "imageSourcePage": "https://www.studiosevenfinearts.com/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Setsuko Watanabe-Morinoue",
@@ -4489,8 +4607,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://www.studiosevenfinearts.com/about",
-      "linkStatus": "source-fallback"
+      "website": "https://www.studiosevenfinearts.com/",
+      "linkStatus": "official-or-representing-gallery",
+      "imageSourcePage": "https://www.studiosevenfinearts.com/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Miho Morinoue",
@@ -4505,8 +4625,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://www.studiosevenfinearts.com/about",
-      "linkStatus": "source-fallback"
+      "website": "https://www.studiosevenfinearts.com/",
+      "linkStatus": "official-or-representing-gallery",
+      "imageSourcePage": "https://www.studiosevenfinearts.com/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Barbara Hanson",
@@ -4520,7 +4642,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.donkeymillartcenter.org/",
+      "imageSourcePage": "https://www.donkeymillartcenter.org/",
+      "linkStatus": "official-or-representing-gallery"
     },
     {
       "title": "Don Slocum",
@@ -4534,7 +4660,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Suzanne Wang",
@@ -4549,8 +4676,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "linkStatus": "source-fallback"
+      "website": "https://donkeymillartcenter.org/",
+      "linkStatus": "official-or-representing-gallery",
+      "imageSourcePage": "https://donkeymillartcenter.org/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Claire Seastone",
@@ -4565,8 +4694,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "linkStatus": "source-fallback"
+      "website": "https://donkeymillartcenter.org/",
+      "linkStatus": "official-or-representing-gallery",
+      "imageSourcePage": "https://donkeymillartcenter.org/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Will & Kate Jacobson",
@@ -4581,8 +4712,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "linkStatus": "source-fallback"
+      "website": "https://donkeymillartcenter.org/",
+      "linkStatus": "official-or-representing-gallery",
+      "imageSourcePage": "https://donkeymillartcenter.org/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Peter Durst",
@@ -4597,8 +4730,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "linkStatus": "source-fallback"
+      "website": "https://donkeymillartcenter.org/",
+      "linkStatus": "official-or-representing-gallery",
+      "imageSourcePage": "https://donkeymillartcenter.org/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Susan Raber Bray",
@@ -4614,7 +4749,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Jill Backus",
@@ -4630,7 +4767,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Gerald Ben",
@@ -4645,8 +4784,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "linkStatus": "source-fallback"
+      "website": "https://donkeymillartcenter.org/",
+      "linkStatus": "official-or-representing-gallery",
+      "imageSourcePage": "https://donkeymillartcenter.org/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Vera Omestad",
@@ -4662,7 +4803,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Sandy Sater",
@@ -4678,7 +4821,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Amber Aguirre",
