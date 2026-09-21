@@ -15,14 +15,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://okinajewelry.com/cdn/shop/files/monsteraearrings.jpg",
+      "imageUrl": "https://okinajewelry.com/cdn/shop/files/monsteraearrings.jpg",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://okinajewelry.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://okinajewelry.com/"
+      "imageSourcePage": "https://okinajewelry.com/",
+      "enrichmentStatus": "image-live"
     },
     {
       "title": "Ola Tropical Apothecary",
@@ -32,14 +33,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://hawaiianbodyproducts.com/cdn/shop/files/IMG_4782_1200x.jpg?v=1768128850",
+      "imageUrl": "https://hawaiianbodyproducts.com/cdn/shop/files/IMG_4782_1200x.jpg?v=1768128850",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://hawaiianbodyproducts.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://hawaiianbodyproducts.com/"
+      "imageSourcePage": "https://hawaiianbodyproducts.com/",
+      "enrichmentStatus": "image-live"
     },
     {
       "title": "Peter Honeyman / Real Flower Jewelry",
