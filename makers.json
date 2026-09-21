@@ -1905,7 +1905,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://konatownhui.corsizio.com/",
+      "imageSourcePage": "https://konatownhui.corsizio.com/",
+      "linkStatus": "official-or-representing-gallery"
     },
     {
       "title": "Kimura Lauhala Shop",
@@ -3752,7 +3755,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.2400f.com/",
+      "imageSourcePage": "https://www.2400f.com/",
+      "linkStatus": "official-or-representing-gallery"
     },
     {
       "title": "Misato Mortara",
@@ -3767,7 +3773,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://volcanoartcenter.org/artists/mortara-misato/",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/mortara-misato/",
+      "linkStatus": "official-or-representing-gallery"
     },
     {
       "title": "The Art of Adare",
@@ -5123,7 +5132,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "website": "https://www.bigislandstainedglass.com/",
+      "imageSourcePage": "https://www.bigislandstainedglass.com/",
+      "linkStatus": "official-or-representing-gallery",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Suzanne Wang Ceramics",
@@ -5137,7 +5150,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "website": "https://www.suzannewangceramics.com/",
+      "imageSourcePage": "https://www.suzannewangceramics.com/",
+      "linkStatus": "official-or-representing-gallery",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Luti Castro Fine Art",
@@ -5205,7 +5222,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "website": "https://honeysupplierkeaau.com/",
+      "imageSourcePage": "https://honeysupplierkeaau.com/",
+      "linkStatus": "official-or-representing-gallery",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Pualani Bee Farm",
