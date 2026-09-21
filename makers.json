@@ -1983,7 +1983,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://aliikanecottages.com/localdirectory.html",
+      "imageSourcePage": "https://aliikanecottages.com/localdirectory.html",
+      "linkStatus": "documented-source"
     },
     {
       "title": "JM Fusions",
@@ -1996,9 +1999,10 @@
       "heroImageUrl": null,
       "imageUrl": null,
       "maker": true,
-      "active": true,
+      "active": false,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "unverified-no-reliable-source",
+      "exclusionReason": "Could not verify a reliable current maker showcase or official/social presence during V1 enrichment."
     },
     {
       "title": "RYH Pottery",
@@ -2427,7 +2431,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://kaunewsbriefs.blogspot.com/2021/04/kau-news-briefs-sunday-april-4-2021.html",
+      "imageSourcePage": "https://kaunewsbriefs.blogspot.com/2021/04/kau-news-briefs-sunday-april-4-2021.html",
+      "linkStatus": "documented-source"
     },
     {
       "title": "Pokela Studios",
