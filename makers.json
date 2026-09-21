@@ -1319,7 +1319,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://mahiaimade.com/",
+      "imageSourcePage": "https://mahiaimade.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Honolii Orchards",
@@ -1334,7 +1337,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://honolii-orchards.com/",
+      "imageSourcePage": "https://honolii-orchards.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Thundering Seas Jewelers",
@@ -2406,7 +2412,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://quillandfeather.com/",
+      "imageSourcePage": "https://quillandfeather.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Hawaii Titanium Rings LLC",
@@ -3246,7 +3255,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://jeffgomes.com/",
+      "imageSourcePage": "https://jeffgomes.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Michael Arthur Jayme",
@@ -3947,7 +3959,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.extremeexposure.com/",
+      "imageSourcePage": "https://www.extremeexposure.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Ralph San Miguel",
@@ -4839,7 +4854,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Cory Lum",
@@ -4855,7 +4872,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Erin Skelton",
@@ -4871,7 +4890,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Allison Tan",
@@ -4887,7 +4908,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Jake Boggs",
@@ -4903,7 +4926,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Buddhas Cup Coffee",
@@ -4918,8 +4943,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "linkStatus": "source-fallback"
+      "website": "https://www.buddhascup.com/",
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://www.buddhascup.com/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Divine Hawaiian Coffee & Gifts Inc.",
@@ -4951,7 +4978,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Hana San Enterprise",
@@ -4967,7 +4996,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Hawaii Balsamics",
@@ -4983,7 +5014,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Hawaiian War Clubs by Manny Mattos",
@@ -4999,7 +5032,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Kalapana - Fresh Hawaiian Honey",
@@ -5015,7 +5050,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Kanahele Jewelry",
@@ -5073,7 +5110,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://bigislandmkt.com/our-vendors",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Rare Hawaiian Honey Company",
@@ -5087,7 +5126,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "website": "https://www.rarehawaiianhoney.com/",
+      "imageSourcePage": "https://www.rarehawaiianhoney.com/",
+      "linkStatus": "official-verified",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Bee Boys",
@@ -5101,7 +5144,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "website": "https://beeboys.org/",
+      "imageSourcePage": "https://beeboys.org/",
+      "linkStatus": "official-verified",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Tynanes Bee Farms",
@@ -5173,7 +5220,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://bigislandmkt.com/our-vendors",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Bill's Coffee & Chocolate",
@@ -5189,7 +5238,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://bigislandmkt.com/our-vendors",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Ka'u Cold Brew",
@@ -5205,7 +5256,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandmkt.com/our-vendors",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://bigislandmkt.com/our-vendors",
+      "enrichmentStatus": "image-source-identified"
     }
   ]
 }
