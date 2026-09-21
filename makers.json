@@ -1355,7 +1355,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.thunderingseas.com/gallery",
+      "imageSourcePage": "https://www.thunderingseas.com/gallery",
+      "linkStatus": "official-verified"
     },
     {
       "title": "High Fire Hawaii Gallery & Studio",
@@ -1388,7 +1391,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.lavaluxebyelle.com/",
+      "imageSourcePage": "https://www.lavaluxebyelle.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Cummings Goldsmith AKA Sassafras",
@@ -1848,7 +1854,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.lehuajewelers.com/",
+      "imageSourcePage": "https://www.lehuajewelers.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Maureen's Island Gems",
@@ -1863,7 +1872,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.maureensislandgems.com/",
+      "imageSourcePage": "https://www.maureensislandgems.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Mountain Gold Jewelers",
@@ -1992,7 +2004,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://ryhpottery2.com/",
+      "imageSourcePage": "https://ryhpottery2.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Volcano Gallery",
@@ -2202,7 +2217,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.pohakucoffee.com/",
+      "imageSourcePage": "https://www.pohakucoffee.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "ʻAilani Orchards",
@@ -2217,7 +2235,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.ailaniorchards.com/",
+      "imageSourcePage": "https://www.ailaniorchards.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Kua'aina Artworks",
@@ -2247,7 +2268,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://kristikranzsilkpainter.com/",
+      "imageSourcePage": "https://kristikranzsilkpainter.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Llosh Winne Art and Design",
@@ -5066,7 +5090,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "website": "https://kanahelejewelry.com/home",
+      "imageSourcePage": "https://kanahelejewelry.com/home",
+      "linkStatus": "official-verified",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Big Island Stained Glass",
@@ -5204,7 +5232,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "website": "https://hamakuacoffeeroasters.com/",
+      "imageSourcePage": "https://hamakuacoffeeroasters.com/",
+      "linkStatus": "official-verified",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Pumehana Plantation",
