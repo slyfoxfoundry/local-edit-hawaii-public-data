@@ -1364,7 +1364,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.highfirehawaii.com/",
+      "imageSourcePage": "https://www.highfirehawaii.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Lava Luxe by Elle",
@@ -1411,7 +1414,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.konacoffeeandtea.com/",
+      "imageSourcePage": "https://www.konacoffeeandtea.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Kona Mountain Coffee",
@@ -1426,7 +1432,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://konamountaincoffee.com/",
+      "imageSourcePage": "https://konamountaincoffee.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Panci Of The Pacific",
@@ -2007,7 +2016,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.paradisemeadowshawaii.com/",
+      "imageSourcePage": "https://www.paradisemeadowshawaii.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Hawaii's Local Buzz",
@@ -2022,7 +2034,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.hawaiislocalbuzz.com/",
+      "imageSourcePage": "https://www.hawaiislocalbuzz.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Miranda's Farms",
@@ -2037,7 +2052,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://mirandasfarms.com/",
+      "imageSourcePage": "https://mirandasfarms.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "John Flynn Jewelry",
@@ -2053,7 +2071,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Emily Herb",
@@ -2069,7 +2089,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Jamie Gilmore",
@@ -2085,7 +2107,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Arthur Johnsen",
@@ -2101,7 +2125,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Melina Jewelry",
@@ -2117,7 +2143,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Susan Grant",
@@ -2133,7 +2161,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/wp-content/uploads/2024/08/2024-08.pdf",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://kohalamountainnews.com/wp-content/uploads/2024/08/2024-08.pdf",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "KoaMalu Collective",
@@ -2149,7 +2179,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.hawaiitribune-herald.com/2026/04/10/hawaii-news/its-the-final-merrie-monarch-craft-fair-featuring-work-of-beloved-ipu-heke-maker/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.hawaiitribune-herald.com/2026/04/10/hawaii-news/its-the-final-merrie-monarch-craft-fair-featuring-work-of-beloved-ipu-heke-maker/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Pohaku Coffee Farm",
@@ -2163,7 +2195,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "ʻAilani Orchards",
@@ -2177,7 +2210,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Kua'aina Artworks",
@@ -2191,7 +2225,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Kristi Kranz / Kranzsilks",
@@ -2205,7 +2240,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Llosh Winne Art and Design",
@@ -2219,7 +2255,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Hilo Bay Pottery",
@@ -2233,7 +2270,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://hilobaypottery.com/",
+      "imageSourcePage": "https://hilobaypottery.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Holo Holo Gold",
@@ -2249,7 +2290,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://dbedt.hawaii.gov/blog/26-52/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://dbedt.hawaii.gov/blog/26-52/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Mahea Lea",
@@ -2265,7 +2308,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://invest.hawaii.gov/wp-content/uploads/2026/03/CBED-Advisory-Council-Meeting-Materials_03.17.2026.pdf",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://invest.hawaii.gov/wp-content/uploads/2026/03/CBED-Advisory-Council-Meeting-Materials_03.17.2026.pdf",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Creative Arts Hawai‘i",
@@ -2281,7 +2326,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://bigislandnow.com/2026/04/06/business-monday-official-merrie-monarch-apparel-designed-and-made-by-local-company/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://bigislandnow.com/2026/04/06/business-monday-official-merrie-monarch-apparel-designed-and-made-by-local-company/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Kathleen's Creations",
@@ -2295,7 +2342,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "CROOKed C Ranch",
@@ -2309,7 +2357,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Ka'u Art Gallery and Gift Shop",
@@ -2323,7 +2372,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Pokela Studios",
@@ -2337,7 +2387,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://pokelastudio.com/",
+      "imageSourcePage": "https://pokelastudio.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Quill & Feather",
@@ -2351,7 +2405,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Hawaii Titanium Rings LLC",
@@ -2365,7 +2420,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.hawaiititaniumrings.com/",
+      "imageSourcePage": "https://www.hawaiititaniumrings.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Dovetail Gallery & Design",
@@ -2379,7 +2438,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://dovetailgalleryanddesign.com/",
+      "imageSourcePage": "https://dovetailgalleryanddesign.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "LewisKoa Co.",
@@ -2393,7 +2456,11 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://lewiskoa.com/",
+      "imageSourcePage": "https://lewiskoa.com/",
+      "linkStatus": "official-verified"
     },
     {
       "title": "Jelena Clay",
@@ -2407,7 +2474,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Stefanie Culbertson",
@@ -2423,7 +2491,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Kathleen Carr",
@@ -2439,7 +2509,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Christal Nylin",
@@ -2455,7 +2527,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Tom Carey",
@@ -2471,7 +2545,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Shannon Nakaya",
@@ -2487,7 +2563,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Debbie Slay",
@@ -2503,7 +2581,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Victoria Penfield",
@@ -2519,7 +2599,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Ginger Anne Sandell",
@@ -2535,7 +2617,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Pola Kate",
@@ -2551,7 +2635,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Tesia Gallinari",
@@ -2567,7 +2653,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Maria Singleton",
@@ -2583,7 +2671,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Brad Lewis",
@@ -2599,7 +2689,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Gigi Goochey",
@@ -2615,7 +2707,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Rachel Baker",
@@ -2631,7 +2725,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Bill Twibell",
@@ -2647,7 +2743,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Scott Pincus",
@@ -2663,7 +2761,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Joseph Ster",
@@ -2679,7 +2779,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Eric Munoz",
@@ -2695,7 +2797,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.kailuavillageartists.com/about-us",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://www.kailuavillageartists.com/about-us",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Cathie Ann Amelotte",
@@ -2711,7 +2815,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://blueseaartisans.com/artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Malia Barreras-Float",
@@ -2727,7 +2833,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://blueseaartisans.com/artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Denise Bird",
@@ -2743,7 +2851,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://blueseaartisans.com/artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Michael P. Carion",
@@ -2759,7 +2869,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://blueseaartisans.com/artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Stan Chraminski",
@@ -2775,7 +2887,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://blueseaartisans.com/artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Marianne Fellner",
@@ -2791,7 +2905,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://blueseaartisans.com/artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Chad Gray",
@@ -2807,7 +2923,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://blueseaartisans.com/artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Corky Kono",
@@ -2823,7 +2941,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://blueseaartisans.com/artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Sue Mailander",
@@ -2839,7 +2959,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://blueseaartisans.com/artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Mark Martel",
@@ -2855,7 +2977,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://blueseaartisans.com/artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Sabrina Ross",
@@ -2871,7 +2995,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://blueseaartisans.com/artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Johanna Schumacher",
@@ -2887,7 +3013,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://blueseaartisans.com/artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Stacey Siegel",
@@ -2903,7 +3031,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://blueseaartisans.com/artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Lorie Taylor",
@@ -2919,7 +3049,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://blueseaartisans.com/artists",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://blueseaartisans.com/artists",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Helen White",
@@ -2935,7 +3067,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Emily Beeson",
@@ -2951,7 +3085,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Donna Maltz",
@@ -2967,7 +3103,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Melisa Hicks",
@@ -2983,7 +3121,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Mark Somers",
@@ -2999,7 +3139,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "ShivaRam Wolfgang Thom",
@@ -3015,7 +3157,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/2021/october-2021/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://kohalamountainnews.com/2021/october-2021/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Catherine Morgan",
@@ -3031,7 +3175,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/2022/march-2022/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://kohalamountainnews.com/2022/march-2022/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Bill Parks",
@@ -3047,7 +3193,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/blog/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://kohalamountainnews.com/blog/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Malia Welch",
@@ -3063,7 +3211,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/blog/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://kohalamountainnews.com/blog/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Mary Sky Schoolcraft",
@@ -3079,7 +3229,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://kohalamountainnews.com/blog/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://kohalamountainnews.com/blog/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Jeff Gomes",
@@ -3093,7 +3245,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Michael Arthur Jayme",
@@ -3107,7 +3260,8 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "enrichmentStatus": "needs-official-web-presence"
     },
     {
       "title": "Travis Morrin",
@@ -3123,7 +3277,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Dennis Schmit",
@@ -3139,7 +3295,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Hunter Wilburn",
@@ -3155,7 +3313,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Samson Tanoa Low",
@@ -3171,7 +3331,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Ryan Ikeuchi",
@@ -3187,7 +3349,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Victoria McCormick",
@@ -3203,7 +3367,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Mika McCann",
@@ -3219,7 +3385,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Claudia McCall",
@@ -3235,7 +3403,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Kathy Long",
@@ -3251,7 +3421,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Kira Kamamalu Lee",
@@ -3267,7 +3439,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Greg Eaves",
@@ -3300,7 +3474,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Douglas Davenport",
@@ -3316,7 +3492,9 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "source-fallback",
+      "imageSourcePage": "https://volcanoartcenter.org/artists/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Patti Datlof",
