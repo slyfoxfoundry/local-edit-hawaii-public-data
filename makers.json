@@ -1839,7 +1839,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.kaahanuidesigns.com/learn",
+      "imageSourcePage": "https://www.kaahanuidesigns.com/learn",
+      "linkStatus": "official-or-documented-source"
     },
     {
       "title": "Lehua Jewelers",
@@ -1890,7 +1893,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.bbb.org/us/hi/kawaihae/profile/jewelry-stores/mountain-gold-jewelers-1296-1003299",
+      "imageSourcePage": "https://www.bbb.org/us/hi/kawaihae/profile/jewelry-stores/mountain-gold-jewelers-1296-1003299",
+      "linkStatus": "official-or-documented-source"
     },
     {
       "title": "Kona Town Hui",
@@ -2025,7 +2031,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.gohawaii.com/listing/volcano-gallery-artist-studio/81161",
+      "imageSourcePage": "https://www.gohawaii.com/listing/volcano-gallery-artist-studio/81161",
+      "linkStatus": "official-or-documented-source"
     },
     {
       "title": "Paradise Meadows Orchard and Bee Farm",
@@ -2382,7 +2391,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.bbb.org/us/hi/kapaau/profile/jewelry-stores/kathleens-creations-1296-53058255",
+      "imageSourcePage": "https://www.bbb.org/us/hi/kapaau/profile/jewelry-stores/kathleens-creations-1296-53058255",
+      "linkStatus": "official-or-documented-source"
     },
     {
       "title": "CROOKed C Ranch",
@@ -2397,7 +2409,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.localharvest.org/crooked-c-ranch-M74281",
+      "imageSourcePage": "https://www.localharvest.org/crooked-c-ranch-M74281",
+      "linkStatus": "official-or-documented-source"
     },
     {
       "title": "Ka'u Art Gallery and Gift Shop",
@@ -3309,7 +3324,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://keolamagazine.com/island-treasures/michael-arthur-jayme-gallery-studio/",
+      "imageSourcePage": "https://keolamagazine.com/island-treasures/michael-arthur-jayme-gallery-studio/",
+      "linkStatus": "official-or-documented-source"
     },
     {
       "title": "Travis Morrin",
@@ -3989,7 +4007,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://hawaiianmako.com/",
+      "imageSourcePage": "https://hawaiianmako.com/",
+      "linkStatus": "official-or-documented-source"
     },
     {
       "title": "Bruce Omori",
@@ -4724,7 +4745,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "enrichmentStatus": "needs-official-web-presence"
+      "enrichmentStatus": "image-source-identified",
+      "website": "https://www.donslocum.com/",
+      "imageSourcePage": "https://www.donslocum.com/",
+      "linkStatus": "official-or-documented-source"
     },
     {
       "title": "Suzanne Wang",
@@ -5009,8 +5033,10 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "linkStatus": "source-fallback"
+      "website": "https://divinehawaiiancoffee.com/",
+      "linkStatus": "official-or-documented-source",
+      "imageSourcePage": "https://divinehawaiiancoffee.com/",
+      "enrichmentStatus": "image-source-identified"
     },
     {
       "title": "Gary Palm Watercolors",
