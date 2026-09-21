@@ -157,15 +157,15 @@
       "town": "Panaewa",
       "area": "Panaewa",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://invest.hawaii.gov/hawaii-made/wp-content/uploads/sites/3/2020/09/12-red-anth.jpg",
+      "imageUrl": "https://invest.hawaii.gov/hawaii-made/wp-content/uploads/sites/3/2020/09/12-red-anth.jpg",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://hawaiiangreenhouse.com/",
       "linkStatus": "official-verified",
       "imageSourcePage": "https://hawaiiangreenhouse.com/",
-      "enrichmentStatus": "image-source-identified"
+      "enrichmentStatus": "image-live"
     },
     {
       "title": "Hog Heaven Coffee",
@@ -407,14 +407,15 @@
       "town": "Big Island",
       "area": "Big Island",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://images.squarespace-cdn.com/content/v1/6385101e2542000fb8593247/840175e0-c04e-4bf9-ba75-b2cb19ce5f1a/Cover%2B1.jpeg",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/6385101e2542000fb8593247/840175e0-c04e-4bf9-ba75-b2cb19ce5f1a/Cover%2B1.jpeg",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.bluecinderbiologica.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://www.bluecinderbiologica.com/shop-all-products"
+      "imageSourcePage": "https://www.bluecinderbiologica.com/shop-all-products",
+      "enrichmentStatus": "image-live"
     },
     {
       "title": "Big Island Candles",
@@ -658,14 +659,15 @@
       "town": "Kealakekua",
       "area": "Kealakekua",
       "island": "Big Island",
-      "heroImageUrl": null,
-      "imageUrl": null,
+      "heroImageUrl": "https://www.greenwellfarms.com/cdn/shop/files/greenwell-farms-private-reserve-kona-coffee-w-badge__94088-2.jpg?v=1689185905&width=500",
+      "imageUrl": "https://www.greenwellfarms.com/cdn/shop/files/greenwell-farms-private-reserve-kona-coffee-w-badge__94088-2.jpg?v=1689185905&width=500",
       "maker": true,
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.greenwellfarms.com/",
       "linkStatus": "official-verified",
-      "imageSourcePage": "https://www.greenwellfarms.com/"
+      "imageSourcePage": "https://www.greenwellfarms.com/",
+      "enrichmentStatus": "image-live"
     },
     {
       "title": "Mountain Thunder Coffee Plantation",
