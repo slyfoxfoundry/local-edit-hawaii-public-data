@@ -183,8 +183,9 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=4",
-      "linkStatus": "source-fallback"
+      "website": "https://hamakuamacnut.com/",
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://hamakuamacnut.com/"
     },
     {
       "title": "Aloha Farms Hawaii",
@@ -329,8 +330,9 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://www.bigislandbees.com/",
-      "linkStatus": "source-fallback"
+      "website": "https://bigislandbees.com/",
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://bigislandbees.com/"
     },
     {
       "title": "Puna Chocolate Company",
@@ -346,7 +348,8 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://punachocolate.com/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://punachocolate.com/"
     },
     {
       "title": "Kona Jungle Jewelry",
@@ -603,7 +606,8 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.greenwellfarms.com/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://www.greenwellfarms.com/"
     },
     {
       "title": "Mountain Thunder Coffee Plantation",
@@ -619,7 +623,8 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://mountainthunder.com/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://mountainthunder.com/collections/frontpage"
     },
     {
       "title": "Hilo Coffee Mill",
@@ -635,7 +640,8 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://hilocoffeemill.com/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://hilocoffeemill.com/"
     },
     {
       "title": "Lavaloha Chocolate Farm",
@@ -651,7 +657,8 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://lavaloha.com/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://lavaloha.com/"
     },
     {
       "title": "Makers Market Hui",
