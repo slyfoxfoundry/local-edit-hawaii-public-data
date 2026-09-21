@@ -21,7 +21,8 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://okinajewelry.com/",
-      "linkStatus": "official"
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://okinajewelry.com/"
     },
     {
       "title": "Ola Tropical Apothecary",
@@ -36,8 +37,9 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://olatropicalapothecary.com/",
-      "linkStatus": "official"
+      "website": "https://hawaiianbodyproducts.com/",
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://hawaiianbodyproducts.com/"
     },
     {
       "title": "Peter Honeyman / Real Flower Jewelry",
@@ -165,7 +167,8 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://hogheavencoffee.com/",
-      "linkStatus": "official"
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://hogheavencoffee.com/"
     },
     {
       "title": "Hamakua Macadamia Nut Co.",
@@ -212,8 +215,9 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://invest.hawaii.gov/hawaii-made/local-food-2/",
-      "linkStatus": "source-fallback"
+      "website": "https://bigislandcoffeeroasters.com/",
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://bigislandcoffeeroasters.com/collections/hawaiian-coffees"
     },
     {
       "title": "Absolutely! Kona Coffee",
@@ -260,8 +264,9 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://invest.hawaii.gov/hawaii-made/local-food-2/?e-page-22fce93=4",
-      "linkStatus": "source-fallback"
+      "website": "https://www.konanaturalsoap.com/",
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://www.konanaturalsoap.com/"
     },
     {
       "title": "Kona Roasted Coffee",
@@ -564,8 +569,9 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://bigislandjewelers.com/",
-      "linkStatus": "source-fallback"
+      "website": "https://www.bigislandjewelers.com/",
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://www.bigislandjewelers.com/"
     },
     {
       "title": "Filthy Farmgirl",
