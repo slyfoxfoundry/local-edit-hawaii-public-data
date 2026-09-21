@@ -365,7 +365,8 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://konajunglejewelry.com/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://konajunglejewelry.com/"
     },
     {
       "title": "Blue Cinder Biologica",
@@ -381,7 +382,8 @@
       "active": true,
       "listingPlan": "basic",
       "website": "https://www.bluecinderbiologica.com/",
-      "linkStatus": "source-fallback"
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://www.bluecinderbiologica.com/shop-all-products"
     },
     {
       "title": "Big Island Candles",
@@ -1270,7 +1272,10 @@
       "imageUrl": null,
       "maker": true,
       "active": true,
-      "listingPlan": "basic"
+      "listingPlan": "basic",
+      "website": "https://www.sassafrashawaii.com/",
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://www.sassafrashawaii.com/"
     },
     {
       "title": "Kona Coffee & Tea",
@@ -1569,8 +1574,9 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://www.waimeacommunitymarket.com/blank-1",
-      "linkStatus": "source-fallback"
+      "website": "https://southkonasilver.com/",
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://southkonasilver.com/"
     },
     {
       "title": "Spicy Ninja Sauce",
@@ -3095,8 +3101,9 @@
       "maker": true,
       "active": true,
       "listingPlan": "basic",
-      "website": "https://volcanoartcenter.org/artists/",
-      "linkStatus": "source-fallback"
+      "website": "https://www.kalaikoawoods.com/",
+      "linkStatus": "official-verified",
+      "imageSourcePage": "https://www.kalaikoawoods.com/"
     },
     {
       "title": "Lanaya Deily",
